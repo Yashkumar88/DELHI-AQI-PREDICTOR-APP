@@ -1,0 +1,83 @@
+
+DATA  DICTIONARY 
+
+AQI OF DELHI  - 2021 – 2023 
+
+Here’s a simple and student-friendly explanation of each column in your dataset. This explanation can help students understand the relevance and purpose of the data:
+
+1.From Date:  This is the starting time when the air quality data was collected. It helps us understand when the measurement period began.
+
+2.To Date:    This is the ending time for the data collection. Together with "From Date," it tells us the time range for each measurement.
+
+3.Ozone:      The amount of ozone (O₃) in the air, measured in micrograms per cubic meter (µg/m³). Ozone is a key air pollutant that impacts both human health and the environment.
+
+4.CO:        Carbon Monoxide levels in the air, measured in milligrams per cubic meter (mg/m³). High levels can come from vehicle emissions and industrial processes, making it a critical pollutant to monitor.
+
+5.SO2:       Sulphur Dioxide concentration in the air, measured in µg/m³. This pollutant often comes from burning fossil fuels and can cause respiratory issues.
+
+6.NO2:       Nitrogen Dioxide concentration, measured in µg/m³. It's an indicator of pollution from vehicles and industrial activities. NO2 also contributes to smog formation.
+
+7.PM10:      Particulate matter (dust particles) with a size of 10 micrometres or smaller, measured in µg/m³. These particles can irritate the eyes, nose, and throat.
+
+8.PM2.5:     Very fine particulate matter (smaller than 2.5 micrometres), also measured in µg/m³. These particles can penetrate deep into the lungs and cause serious health issues, like asthma and heart disease.
+
+9.State:     The name of the state where the air quality measurement was taken. This helps in analysing how pollution varies across different regions.
+
+10.City:     The name of the city where the air quality station is located. It provides more localized data for specific urban or rural areas.
+
+11.Station: The specific monitoring station where the data was recorded. This helps pinpoint the exact location of the measurements and allows for micro-level analysis.
+________________________________________
+Why Is This Data Important?
+•	The date and time columns help us analyse trends over time and understand when pollution levels are high.
+•	The pollutant columns (Ozone, CO, SO2, NO2, PM10, PM2.5) provide insights into the air quality and health impacts.
+•	The location columns (State, City, Station) allow us to compare pollution levels across regions and identify hotspots.
+This dictionary gives students a clear idea of what the dataset contains and how each column contributes to understanding air quality.
+
+
+
+
+AQI (Air Quality Index) in Delhi
+
+
+The Air Quality Index (AQI) in Delhi often ranges from "Moderate" to "Hazardous",
+ depending on the time of year, weather conditions, and pollution sources. 
+During the winter months, 
+AQI frequently crosses the "Severe" level, primarily due to industrial emissions, vehicular pollution, construction dust, and crop residue burning in neighboring states.
+
+Common Gases and Pollutants in Delhi's Air
+The air in Delhi contains a mix of the following pollutants:
+
+Ozone (O₃)
+
+Ground-level ozone forms when pollutants like nitrogen oxides (NOₓ) and volatile organic compounds (VOCs) react in sunlight.
+Causes respiratory problems and throat irritation.
+Carbon Monoxide (CO)
+
+Primarily emitted from vehicular emissions and incomplete combustion of fossil fuels.
+Reduces oxygen supply in the bloodstream and can be fatal in high concentrations.
+Sulfur Dioxide (SO₂)
+
+Emitted from power plants, industrial processes, and burning coal or diesel.
+Contributes to acid rain and irritates the respiratory system.
+Nitrogen Dioxide (NO₂)
+
+Produced from vehicles, power plants, and burning of fossil fuels.
+Contributes to the formation of smog and acid rain.
+Particulate Matter (PM2.5 and PM10)
+
+Fine particles (PM2.5) and coarse particles (PM10) come from construction dust, vehicular emissions, and crop burning.
+Penetrates deep into the lungs and bloodstream, causing cardiovascular and respiratory diseases.
+Ammonia (NH₃)
+
+Emitted from agricultural activities and waste management.
+Reacts with other pollutants to form secondary particulates.
+Volatile Organic Compounds (VOCs)
+
+Released from industrial processes, vehicular exhaust, and household products.
+Contribute to the formation of ozone and smog.
+
+
+Key Insights
+
+M2.5 and PM10 are the most critical pollutants, as they remain suspended in the air for long durations and pose severe health risks.
+The interaction of pollutants, such as NO₂ and VOCs, with sunlight worsens air quality by creating ground-level ozone.
